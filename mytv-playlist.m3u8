@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="MyTV CH1" group-title="Sports",MyTV Channel 1
+http://mike14679.cdnsilver.me/live/0d792ee30da2/ab17bf7d6d/544506.m3u8
+#EXTINF:-1 tvg-name="MyTV CH2" group-title="Sports",MyTV Channel 2
+http://mike14679.cdnsilver.me/live/0d792ee30da2/ab17bf7d6d/544474.m3u8
